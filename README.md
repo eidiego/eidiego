@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como analista de sistemas
 - 🌱 Estudando React, Typescript e Python
-- 📫 Contate-me pelo e-mail: diegokod@gmail.com
+- 📫 Contate-me pelo e-mail: dev.diegorb@gmail.com
 
 <div align="center">
   <a href="https://github.com/eidiego">
