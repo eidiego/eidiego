@@ -11,12 +11,11 @@
 <div align="center">
   <a href="https://github.com/eidiego">
   <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=eidiego&show_icons=true&theme=vision-friendly-dark" alt="eidiego's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=eidiego&show_icons=true&theme=vision-friendly-dark" alt="eidiego's stats"/>
 <img width="450em" heigth="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidiego&layout=compact&theme=vision-friendly-dark" alt="eidiego's most languages"/>
 </p>
 </div>
        
-
 
 ## 🛠 &nbsp;Tech Stack
 
