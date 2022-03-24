@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego Rodrigues! 👋
 
 - 🔭 Hoje trabalho como analista de sistemas
-- 🌱 Estudando React, Typescript e Python
+- 🌱 Estudando React, Typescript, PHP, Laravel e Python
 - 📫 Contate-me pelo e-mail: dev.diegorb@gmail.com
 
 
