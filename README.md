@@ -1,6 +1,6 @@
-### Olá! Eu sou o Diego Rodrigues! 👋
+### Olá! Meu nome é Diego Rodrigues! 👋
 
-- 🔭 Hoje trabalho como analista de sistemas
+- 🔭 Hoje trabalho como analista de sistemas e freelancer em desenvolvimento web
 - 🌱 Estudando React, Typescript, PHP/Laravel
 - 📫 Contate-me pelo e-mail: dev.diegorb@gmail.com
 
