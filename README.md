@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Diego Rodrigues! 👋
 
 - 🔭 Hoje trabalho como analista de sistemas e freelancer em desenvolvimento web
-- 🌱 Aprofundando conhecimentos em ReactJs, VueJs, Typescript, PHP/Laravel
+- 🌱 Aprofundando conhecimentos em Dart/Flutter, VueJs, Typescript
 - 📫 Contato profissional pelo e-mail: dev.diegorb@gmail.com
 
 
