@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como analista de sistemas e freelancer em desenvolvimento web
 - 🌱 Aprofundando conhecimentos em ReactJs, VueJs, Typescript, PHP/Laravel
-- 📫 Contate-me pelo e-mail: dev.diegorb@gmail.com
+- 📫 Contato profissional pelo e-mail: dev.diegorb@gmail.com
 
 
 
