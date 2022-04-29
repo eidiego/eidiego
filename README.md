@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como analista de sistemas e freelancer em desenvolvimento web
 - 🌱 Aprofundando conhecimentos em Dart/Flutter, VueJs, Typescript
-- 📫 Contato profissional pelo e-mail: dev.diegorb@gmail.com
+- 📫 Contato profissional pelo e-mail ou dúvidas: dev.diegorb@gmail.com
 
 
 
