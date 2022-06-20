@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/eidiego">
   <p align="left">
-<img width="450em" heigth="650" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidiego&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="eidiego's most languages"/>
+<img width="450em" heigth="650" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidiego&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="eidiego's most languages"/>
 </p>
 </div>
        
