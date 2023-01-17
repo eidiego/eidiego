@@ -1,7 +1,8 @@
 ### Olá! Meu nome é Diego Rodrigues! 👋
 
 - 🔭 Hoje trabalho como analista de sistemas e freelancer em desenvolvimento web
-- 🌱 Aprofundando conhecimentos em Java, VueJS e Go.
+- Pergunte-me sobre: Java, SpringBoot, Docker, SQL SERVER
+- 🌱 Aprofundando conhecimentos em AWS, VueJS e Go.
 - 📫 Contato profissional pelo e-mail ou dúvidas: diegokod@gmail.com
 
 
