@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como analista de sistemas e freelancer em desenvolvimento web
 - Pergunte-me sobre: Java, SpringBoot, Docker, SQL SERVER
-- 🌱 Aprofundando conhecimentos em AWS, VueJS e Go.
+- 🌱 Aprofundando conhecimentos em AWS, Arquitetura de Software e Python.
 - 📫 Contato profissional pelo e-mail ou dúvidas: diegokod@gmail.com
 
 
